@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopastre
 - 👀 I’m interested in study QA
-- 🌱 I’m currently learning automation with rest-assured and selenium
+- 🌱 I’m currently learning automation with robot framework
 - 📫 How to reach me :
 ✔ https://www.linkedin.com/in/joaogabrielmartins/
 <!---
