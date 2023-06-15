@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaopastre
 - 👀 I’m interested in study QA
-- 🌱 I’m currently learning automation with robot framework
+- 🌱 I’m currently learning automation with robot framework and cypress
 - 📫 How to reach me :
 ✔ https://www.linkedin.com/in/joaogabrielmartins/
 <!---
